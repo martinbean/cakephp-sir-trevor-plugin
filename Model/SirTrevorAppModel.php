@@ -6,5 +6,8 @@
  * @package  Cake.Plugin.SirTrevor
  * @license  MIT License
  */
+
+App::uses('AppModel', 'Model');
+
 class SirTrevorAppModel extends AppModel {
 }
